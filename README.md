@@ -13,7 +13,7 @@ spring security学习，采用Java Config配置。
 
 ##  2.进一步要实现的功能
 
-*   使用AJAX替代登录的表单提交
+*   使用AJAX替代登录的表单提交。ajax提交请看这个例子：[spring-security-example-ajax](https://github.com/xuanbo/spring-security-example-ajax)
 *   权限跟资源存储在数据库
 
 ##  3.闲的蛋疼
